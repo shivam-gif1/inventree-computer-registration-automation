@@ -1,1 +1,2 @@
-# inventree-computer-registration-automation
+WHEN USING GENERATE HARDWARE REPORT.SH AFTER THAT USE CHECK-HARDWARE-REPORT.SH IMMEDIATLY
+SO FIRST USE generate-hardware-report.sh AND THEN USE check-hardware-report.sh
