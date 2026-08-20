@@ -1,0 +1,1 @@
+# inventree-computer-registration-automation
